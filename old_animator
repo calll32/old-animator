@@ -56,7 +56,8 @@ DETECTION_MODELS=(
 )
 
 UPSCALER_MODELS=(
-    "https://huggingface.co/gazsuv/pussydetectorv4/resolve/main/4xUltrasharp_4xUltrasharpV10.pt"
+    "https://huggingface.co/arhiteector/loras/resolve/main/wanvideohelper/low.pt"
+    "https://huggingface.co/arhiteector/loras/resolve/main/wanvideohelper/005_colorDN_DFWB_s128w8_SwinIR-M_noise15.pth"
 )
 
 LORAS=(
